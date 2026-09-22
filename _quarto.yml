@@ -19,26 +19,6 @@ website:
           - href: r.qmd
             text: R Resources
 
-      - section: "Statistics"
-        contents:
-          - href: statistics.qmd
-            text: Statistics Resources
-
-      - section: "Methodology"
-        contents:
-          - href: methodology.qmd
-            text: Methodology Resources
-
-      - section: "Machine Learning"
-        contents:
-          - href: machine-learning.qmd
-            text: Machine Learning Resources
-
-      - section: "Git"
-        contents:
-          - href: git.qmd
-            text: Git Resources
-
 format:
   html:
     page-layout: full
