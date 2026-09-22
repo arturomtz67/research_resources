@@ -1,0 +1,19 @@
+---
+title: "R Resources"
+---
+
+# R Resources
+
+This section contains recommended R packages, tutorials, books, videos, and workflows.
+
+## Recommended packages
+
+Resources will be added here.
+
+## Tutorials
+
+Resources will be added here.
+
+## Reproducible workflows
+
+Resources will be added here.
