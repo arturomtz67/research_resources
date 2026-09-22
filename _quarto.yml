@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Research Resources"
+  page-navigation: true
+
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Welcome
+
+      - section: "R"
+        contents:
+          - href: r.qmd
+            text: R Resources
+
+      - section: "Statistics"
+        contents:
+          - href: statistics.qmd
+            text: Statistics Resources
+
+      - section: "Methodology"
+        contents:
+          - href: methodology.qmd
+            text: Methodology Resources
+
+      - section: "Machine Learning"
+        contents:
+          - href: machine-learning.qmd
+            text: Machine Learning Resources
+
+      - section: "Git"
+        contents:
+          - href: git.qmd
+            text: Git Resources
+
+format:
+  html:
+    page-layout: full
+    css: styles.css
+    theme: cosmo
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    toc-title: "Table of contents"
+    number-sections: false
+    smooth-scroll: true
+    code-fold: true
+    code-tools: true
+    mermaid:
+      securityLevel: loose
+
+editor: source
+
+execute:
+  freeze: auto
