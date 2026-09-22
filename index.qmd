@@ -1,0 +1,21 @@
+---
+title: "Welcome"
+---
+
+# Research Resources
+
+This website collects useful resources for research, statistics, R programming, methodology, machine learning, Git, and reproducible workflows.
+
+The resources shared here have been used and recommended by the people who contribute them. The goal is not just to collect links, but to provide practical context based on real experience.
+
+For each resource, we aim to explain:
+
+- What the resource is
+- Why it is useful
+- When to use it
+- How to get started
+- Who you can contact for basic guidance, practical tips, or questions
+
+## Browse the site
+
+Use the sidebar to explore resources by topic.
